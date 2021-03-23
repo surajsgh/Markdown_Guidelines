@@ -56,3 +56,11 @@ _This is_ italic text.
 <!-- Images -->
 
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
+<!-- Code Blocks -->
+
+```JavaScript
+function add(a, b) {
+    return a + b;
+}
+```
