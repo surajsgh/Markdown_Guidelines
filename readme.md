@@ -13,3 +13,7 @@
 ##### Heading 5
 
 ###### Heading 6
+
+<!-- Italics -->
+
+_This is_ italic text.
