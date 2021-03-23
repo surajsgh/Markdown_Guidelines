@@ -29,3 +29,7 @@ _This is_ italic text.
 <!-- Horizontal Rule -->
 
 ---
+
+<!-- Blockquote -->
+
+> This is a quote.
