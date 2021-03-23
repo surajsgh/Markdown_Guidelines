@@ -64,3 +64,10 @@ function add(a, b) {
     return a + b;
 }
 ```
+
+<!-- Table -->
+
+| First Header | Second Header |
+| ------------ | ------------- |
+| Content Cell | Content Cell  |
+| Content Cell | Content Cell  |
