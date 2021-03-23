@@ -37,3 +37,11 @@ _This is_ italic text.
 <!-- Links -->
 
 [AlgoExoert](https://www.algoexpert.io "AlgoExpert")
+
+<!-- Unordered List -->
+
+- List 1
+- List 2
+- List 3
+  - Nested List 1
+  - Nested List 2
