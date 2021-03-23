@@ -17,3 +17,7 @@
 <!-- Italics -->
 
 _This is_ italic text.
+
+<!-- Bold text -->
+
+**This is** bold text.
