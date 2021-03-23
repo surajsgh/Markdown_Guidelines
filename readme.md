@@ -21,3 +21,7 @@ _This is_ italic text.
 <!-- Bold text -->
 
 **This is** bold text.
+
+<!-- Strikethrough -->
+
+~~This is~~ strikethrough.
