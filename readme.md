@@ -52,3 +52,7 @@ _This is_ italic text.
 2. List 2
 3. List 3
    1. Nested List 1
+
+<!-- Images -->
+
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
