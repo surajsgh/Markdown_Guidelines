@@ -45,3 +45,10 @@ _This is_ italic text.
 - List 3
   - Nested List 1
   - Nested List 2
+
+<!-- Ordered List -->
+
+1. List 1
+2. List 2
+3. List 3
+   1. Nested List 1
