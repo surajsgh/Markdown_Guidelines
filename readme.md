@@ -25,3 +25,7 @@ _This is_ italic text.
 <!-- Strikethrough -->
 
 ~~This is~~ strikethrough.
+
+<!-- Horizontal Rule -->
+
+---
